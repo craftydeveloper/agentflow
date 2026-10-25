@@ -1,0 +1,11 @@
+{
+  "name": "agentflow",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A planning board for human-reviewed AI task workflows, without automatic publishing or execution.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
