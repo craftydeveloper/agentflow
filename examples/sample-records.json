@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "flow-1",
+      "title": "Research summary review",
+      "owner": "team",
+      "stage": "review"
+    },
+    {
+      "id": "flow-2",
+      "title": "Release note draft",
+      "owner": "maintainer",
+      "stage": "planned"
+    }
+  ]
+}
